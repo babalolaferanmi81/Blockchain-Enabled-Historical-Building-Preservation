@@ -7,3 +7,5 @@ V
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 U
 %contracts/structure-registration.clar,e/4/e415b31646b4b870ac6b5566b45b456a943a0056
+T
+$tests/structure-registration.test.ts,1/f/1f7d73d04060411924d63a166b72043ebb03f391
